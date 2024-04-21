@@ -10,7 +10,7 @@ So I do step forward my destination.🤩
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on protecting credential information against advisory.
-- 🌱 I’m currently learning python language and tools around me.
+- 🌱 I’m currently learning python language and Pentesting tools around me.
 - 🤔 I’m looking for help with career of security.
 - 💬 Ask me about everything.
 - 📫 How to reach me: Twitter: @MatzTaka
