@@ -5,7 +5,7 @@ Junior SOC Analyst @antrus
 
 I am working as a Security Engineer with knowledge of threat assessment in the entrance of network segment, endpoint.
 I have just 4 months of experience in Cyber Security.
-So I do step forward my destination.
+So I do step forward my destination.🤩
 
 Here are some ideas to get you started:
 
