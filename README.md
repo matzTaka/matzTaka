@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything.
 - 📫 How to reach me: Twitter: @MatzTaka
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: R6S
